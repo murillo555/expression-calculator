@@ -52,3 +52,12 @@ POST body example
 **Node Version:** v20.16.0
 
 
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
