@@ -15,7 +15,12 @@ example:
 
  `PORT=8010`
 ## Run Locally
+Install ts-node
+```bash
 
+npm install -g ts-node
+
+```
 Install dependencies
 
 ```bash
